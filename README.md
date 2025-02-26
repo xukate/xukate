@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I came from China, and now I teach in <a href=" cofc.edu">CofC</a>. Here are some fun facts about me. 
+
+### courses I am taching
+ * CS programming I in **python**
+ * Web programming in **JavaScript**
+ * Computer organization and Assembly language 
+ * Data Science 101 
+
+ You can reach me 📫 at xuk@cofc.edu
+
+ I'am learnning Git/GitHub <img src="https://myoctocat.com/assets/images/base-octocat.svg"/>
+
+
+
